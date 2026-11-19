@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "Arsenal",
+    "Played": 10,
+    "Won": 9,
+    "Drawn": 0,
+    "Lost": 1,
+    "GoalDifference": 10,
+    "Points": 27
+  },
+  {
+    "Name": "Brighton",
+    "Played": 10,
+    "Won": 7,
+    "Drawn": 1,
+    "Lost": 2,
+    "GoalDifference": 19,
+    "Points": 22
+  },
+  {
+    "Name": "Manchester City",
+    "Played": 10,
+    "Won": 7,
+    "Drawn": 0,
+    "Lost": 3,
+    "GoalDifference": 8,
+    "Points": 21
+  },
+  {
+    "Name": "Liverpool",
+    "Played": 10,
+    "Won": 5,
+    "Drawn": 3,
+    "Lost": 2,
+    "GoalDifference": 4,
+    "Points": 18
+  },
+  {
+    "Name": "Chelsea",
+    "Played": 10,
+    "Won": 5,
+    "Drawn": 1,
+    "Lost": 4,
+    "GoalDifference": 3,
+    "Points": 16
+  },
+  {
+    "Name": "Everton",
+    "Played": 10,
+    "Won": 4,
+    "Drawn": 4,
+    "Lost": 2,
+    "GoalDifference": 2,
+    "Points": 16
+  },
+  {
+    "Name": "AFC Bournemouth",
+    "Played": 10,
+    "Won": 4,
+    "Drawn": 3,
+    "Lost": 3,
+    "GoalDifference": 2,
+    "Points": 15
+  },
+  {
+    "Name": "Brentford",
+    "Played": 10,
+    "Won": 3,
+    "Drawn": 5,
+    "Lost": 2,
+    "GoalDifference": 5,
+    "Points": 14
+  },
+  {
+    "Name": "Leeds United",
+    "Played": 10,
+    "Won": 3,
+    "Drawn": 5,
+    "Lost": 2,
+    "GoalDifference": 2,
+    "Points": 14
+  },
+  {
+    "Name": "Aston Villa",
+    "Played": 10,
+    "Won": 3,
+    "Drawn": 4,
+    "Lost": 3,
+    "GoalDifference": -3,
+    "Points": 13
+  },
+  {
+    "Name": "Tottenham Hotspur",
+    "Played": 10,
+    "Won": 3,
+    "Drawn": 3,
+    "Lost": 4,
+    "GoalDifference": -1,
+    "Points": 12
+  },
+  {
+    "Name": "Newcastle United",
+    "Played": 10,
+    "Won": 3,
+    "Drawn": 3,
+    "Lost": 4,
+    "GoalDifference": -3,
+    "Points": 12
+  },
+  {
+    "Name": "Hull City",
+    "Played": 10,
+    "Won": 2,
+    "Drawn": 5,
+    "Lost": 3,
+    "GoalDifference": 0,
+    "Points": 11
+  },
+  {
+    "Name": "Ipswich Town",
+    "Played": 10,
+    "Won": 3,
+    "Drawn": 2,
+    "Lost": 5,
+    "GoalDifference": -5,
+    "Points": 11
+  },
+  {
+    "Name": "Fulham",
+    "Played": 10,
+    "Won": 2,
+    "Drawn": 4,
+    "Lost": 4,
+    "GoalDifference": -2,
+    "Points": 10
+  },
+  {
+    "Name": "Nottingham Forest",
+    "Played": 10,
+    "Won": 2,
+    "Drawn": 3,
+    "Lost": 5,
+    "GoalDifference": -4,
+    "Points": 9
+  },
+  {
+    "Name": "Coventry City",
+    "Played": 10,
+    "Won": 3,
+    "Drawn": 0,
+    "Lost": 7,
+    "GoalDifference": -9,
+    "Points": 9
+  },
+  {
+    "Name": "Manchester United",
+    "Played": 10,
+    "Won": 1,
+    "Drawn": 5,
+    "Lost": 4,
+    "GoalDifference": -5,
+    "Points": 8
+  },
+  {
+    "Name": "Sunderland",
+    "Played": 10,
+    "Won": 2,
+    "Drawn": 2,
+    "Lost": 6,
+    "GoalDifference": -9,
+    "Points": 8
+  },
+  {
+    "Name": "Crystal Palace",
+    "Played": 10,
+    "Won": 2,
+    "Drawn": 1,
+    "Lost": 7,
+    "GoalDifference": -14,
+    "Points": 7
+  }
+]
